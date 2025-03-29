@@ -27,7 +27,7 @@ local url
 
 if game.PlaceId == 12137249458 then  -- Gun Grounds
     sendNotification("Notification", "Gun Grounds [" .. GameP .. "]")
-    url = https://raw.githubusercontent.com/nam502/Cc/refs/heads/main/github"
+    url = "https://raw.githubusercontent.com/nam502/juder/refs/heads/main/justlv"
 
 elseif game.PlaceId == 5094651510 or game.PlaceId == 4855457388 then 
     sendNotification("Notification", "Demon Fall [" .. GameP .. "]")
